@@ -13,7 +13,7 @@
 - perl ( activeperl for me )
 - openssl
 - zlib
->to generante nginx.exe, just look there https://github.com/tjliupeng/nginx-build-windows or 
+	> to generante nginx.exe, just look there https://github.com/tjliupeng/nginx-build-windows or http://nginx.org/en/docs/howto_build_on_win32.html
 
 ## nginx-vod-module
 I got some problems
